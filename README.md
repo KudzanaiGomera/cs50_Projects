@@ -1,2 +1,2 @@
 # cs50
-cs50 exercises and projects
+cs50 bootcamp and some projects
